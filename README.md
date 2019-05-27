@@ -1,4 +1,4 @@
-# a-simple-chat-agent
+# A-simple-chat-agent
 
 Now many many companies pay more attention to man-machine dialogue,such as Apple:Sire,Microsoft:Tay,Baidu:Dumi,etc
 This project will implement a simple chat agent.
